@@ -14,7 +14,7 @@ public class Main {
             return s;
         }
     }
-    public static void main(String [] args)
+    public static void main(String [] args){
         B abj = new B();
         String S = B.meth();
         System.out.println(S);
